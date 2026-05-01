@@ -1,17 +1,12 @@
 {
   "sys_v": {
-    "c": 2,
-    "s": "a"
+    "c": 3,
+    "s": "active"
   },
   "nodes": {
-    "p1": "Matrix-raw://AES-GCM-256:TUFUUklYXzIwMjYhozUpJQ48fKLdXPczYk5gchKXGps9S+xB5YOvRM1iPF03yRW8wKPqLcB/NoW2f/+3/IXJrCbctylrwpSbXNDOdNrRgRNeanwnUAav7CIqP3slPbDjPjMTAAAy0d3yQgL+yyxRfZZMYKEdK0PaAFwxkTbwPtU9AWATYkbS4D1Zb3A=",
-    "p2": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الثاني_هنا",
-    "p3": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الثالث_هنا",
-    "p4": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الرابع_هنا"
+    "p1": "matrix-raw://AES-GCM-256:TUFUUklYXzIwMjYhozUpJQ48fKLdXPcza1lraxGeC8c7CuIB+8+lAsduPAk1hg/qgfS5PsFkboyyZ7+c5oOZ7l35/Sxmht/aWY6QZcnNgVlBPiQuVxujv215OnVjJ6ftbDMFAA5ywIi1GQvpl6tZ5hm0+ygA0UBHAPQsyg=="
   },
   "flags": {
-    "f": 1,
-    "sc": 1,
-    "t": 3600
+    "f": 1
   }
 }
