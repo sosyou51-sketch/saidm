@@ -1,0 +1,17 @@
+{
+  "sys_v": {
+    "c": 2,
+    "s": "a"
+  },
+  "nodes": {
+    "p1": "Matrix-raw://AES-GCM-256:TUFUUklYXzIwMjYhozUpJQ48fKLdXPczYk5gchKXGps9S+xB5YOvRM1iPF03yRW8wKPqLcB/NoW2f/+3/IXJrCbctylrwpSbXNDOdNrRgRNeanwnUAav7CIqP3slPbDjPjMTAAAy0d3yQgL+yyxRfZZMYKEdK0PaAFwxkTbwPtU9AWATYkbS4D1Zb3A=",
+    "p2": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الثاني_هنا",
+    "p3": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الثالث_هنا",
+    "p4": "Matrix-raw://AES-GCM-256:ضع_الرابط_المشفر_الرابع_هنا"
+  },
+  "flags": {
+    "f": 1,
+    "sc": 1,
+    "t": 3600
+  }
+}
