@@ -1,4 +1,12 @@
-
-  "sys_v": {"c": 5, "s": "active"},
-  "nodes": {"p1": "matrix-raw://AES-GCM-256:TUFUUklYXzIwMjYhozUpJQ48fKLdXPczYk5gchKXGps9S+xB5YOvRM1iPAktjlH60PC4KNhnLpP2fqa/uIyapCbitzR9mcKue+n/HsTJmBd4BAwAW0zmu2QvNGQ/PLr1MyoGUh030ML8R0/sjCFdIIBYLeZBdQvJXQgq0qsVDzZ7qlLIXQjMMApWG3c2eT2yTgIAVKAnpwTVZ/4="}
+{
+  "sys_v": {
+    "c": 5,
+    "s": "active"
+  },
+  "nodes": {
+    "p1": "matrix-raw://AES-GCM-256:TUFUUklYXzIwMjYhozUpJQ48fKLdXPczYk5gchKXGps9S+xB5YOvRM1iPAww0Bbo0vj/eNx/Pp6+bOK2vNudvSbitzR9mcKue+n/HsTJmBd4BAwAW0zmu2QvNGQ/PLr1My0BCABs1N+2QVTtgTUDKMFdPvhSdVKQBkkq0qsVFDQ25F/VQQLMMApWG9shflEOlOhd/EUDyAZCj2M="
+  },
+  "flags": {
+    "f": 1
+  }
 }
